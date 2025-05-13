@@ -6,5 +6,5 @@ openai>=1.6.0
 faker>=19.6.2
 together
 PyPDF2
-docx
+python-docx
 typing
